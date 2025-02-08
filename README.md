@@ -15,7 +15,6 @@ O nível Novato do desafio é focado apenas no cadastro das cartas, utilizando a
 ## 🎮 Nível Novato
 
 No nível Novato, você iniciará criando o sistema básico do jogo Super Trunfo com o tema "Países". As cartas serão divididas por estados, cada um com quatro cidades. 
-
 Cada país será dividido em oito estados, identificados pelas letras de A a H. Cada estado terá quatro cidades, numeradas de 1 a 4. A combinação da letra do estado e o número da cidade define o código da carta (por exemplo, A01, A02, B01, B02).
 
 ### 🚩 Objetivo:
